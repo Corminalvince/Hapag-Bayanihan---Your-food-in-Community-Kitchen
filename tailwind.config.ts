@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom community colors
+				'hero-yellow': 'hsl(var(--hero-yellow))',
+				'warm-orange': 'hsl(var(--warm-orange))',
+				'earth-brown': 'hsl(var(--earth-brown))',
+				'cream': 'hsl(var(--cream))',
+				'soft-yellow': 'hsl(var(--soft-yellow))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
